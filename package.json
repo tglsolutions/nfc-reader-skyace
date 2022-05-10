@@ -1,0 +1,23 @@
+{
+  "name": "nfc-reader-skyace",
+  "version": "1.0.0",
+  "description": "nfc reader eid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tglsolutions/nfc-reader-skyace.git"
+  },
+  "keywords": [
+    "nfc",
+    "reader"
+  ],
+  "author": "Tgl Solutions <tglsol06092019@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tglsolutions/nfc-reader-skyace/issues"
+  },
+  "homepage": "https://github.com/tglsolutions/nfc-reader-skyace#readme"
+}
